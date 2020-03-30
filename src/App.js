@@ -1,9 +1,8 @@
 import React from "react";
-import logo from "./logo.svg";
 
 import { Navbar, NavbarBrand } from 'reactstrap';
-import Menu from './components/MenuComponent';
-import FirstComponent from "./components/FirstComponent";
+import Menu from './components/MenuComponent';    //Custom Component
+import FirstComponent from "./components/FirstComponent"; //created by me.
 
 function App() {
   return (
